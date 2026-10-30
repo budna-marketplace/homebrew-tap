@@ -2,8 +2,8 @@ class BudnaMcp < Formula
   desc "MCP tools for the Budna marketplace API"
   homepage "https://github.com/budna-marketplace/mcp"
   url "https://github.com/budna-marketplace/mcp.git",
-      revision: "71b7ae40daf6b47001994e7732af710cbcfa8e48"
-  version "0.6.0"
+      revision: "6352d8d31dd58058acee62fdb8d0155c4b0904b6"
+  version "0.7.0"
   license "MIT"
 
   depends_on "rust" => :build
